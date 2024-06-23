@@ -3,7 +3,7 @@
         "source": "https://github.com/searchingshiv/NTEDITED.git",
         "branch": "main",
         "env": {
-            "TG_BOT_TOKEN": "bass-bot-token-dalo"
+            "TG_BOT_TOKEN": "6789667218:AAGWyCbbHvzKq2JBXGMgnXDslgOtMCryR_A"
         },
         "run": "main.py"
     },
@@ -11,7 +11,7 @@
         "source": "https://github.com/searchingshiv/NTEDITED.git",
         "branch": "main",
         "env": {
-            "TG_BOT_TOKEN": "bot-token-2"
+            "TG_BOT_TOKEN": "6963944721:AAHVHnVwbK3xHMgGEDuYG0KTlZ92XKST7m8"
         },
         "run": "main.py"
     },
